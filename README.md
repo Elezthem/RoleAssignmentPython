@@ -1,2 +1,4 @@
 # RoleAssignmentPython
 Dsicord bot
+
+Easy 🤍
